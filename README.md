@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html, css, and javascipt
 - 💞️ I’m looking to collaborate on my partner
 - 📫 How to reach me at instagram @rikiiandrian
-- 😄 Pronouns: ...
+- 😄 Pronouns: not identified
 - ⚡ Fun fact: nothing "fun" on me.
 
 <!---
