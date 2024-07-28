@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rikii01
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning html, css, and javascipt
-- 📫 How to reach me at instagram @rikiiandrian
+- 📫 How to reach me at instagram @rikiiandriannn
 - 😄 Pronouns: not identified
 - ⚡ Fun fact: nothing "fun" on me.
 
