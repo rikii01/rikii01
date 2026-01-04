@@ -1,3 +1,3 @@
 ![Riki Andrian](img/banner-github.png)
 
-##### ♠ Tools of the Trade
+### ♠ Tools of the Trade
